@@ -1,0 +1,19 @@
+dataprovider: sqlite
+
+mysql:
+  host: localhost
+  port: 3306
+  database: database
+  username: root
+  password: ""
+
+mongodb:
+  uri: uri
+  database: database
+  collection: collection
+
+hub-location:
+  world: world
+  x: 100
+  y: 100
+  z: 100

@@ -1,0 +1,5 @@
+name: DogeBolt
+version: ${project.version}
+main: com.kaassnuvier.dogebolt.DogeBoltPlugin
+api-version: 1.17
+authors: [ Niqck ]
